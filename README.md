@@ -1,6 +1,4 @@
-# Escape Room Hackathon
-
-## Brief 📋
+# Escape Room Hackathon 📋
 
 Welcome to the Escape Room Hackathon! This hackathon will guide you through creating an interactive escape room experience where participants must solve logic puzzles to progress through the game. The goal is to create an escape room that can be shared and enjoyed by others, all without writing a single line of code.
 
