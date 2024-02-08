@@ -60,8 +60,8 @@ Now go create amazing projects together! Good luck! 🎉👩‍💻👨‍💻
 
 ### A little starting help:
 
-1. [Install this plugin to VSCode](https://www.drawio.com/blog/embed-diagrams-vscode) to allow you to use [draw.io](http://draw.io) in the interface
-2. Plan your project, but try to make your stages of development MVPs so that you can always have something to test
+1. If you like, you can [install this plugin to VSCode](https://www.drawio.com/blog/embed-diagrams-vscode) to allow you to use [draw.io](http://draw.io) directly in the VSCode interface
+2. Plan your project, but try to make your stages of development MVPs so that you can always have something to test and show
 3. Download this Scratch editor so we can collaborate on a Scratch project with git
     
     [Scratch - Scratch Offline Editor](https://scratch.mit.edu/download)
